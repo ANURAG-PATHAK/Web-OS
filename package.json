@@ -1,0 +1,38 @@
+{
+  "name": "Anurag-Pathak-Portfolio",
+  "version": "1.0",
+  "description": "My Personal Portfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANURAG-PATHAK/my-portfolio.git"
+  },
+  "author": "Anurag Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANURAG-PATHAK/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/ANURAG-PATHAK/my-portfolio#readme",
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "expr-eval": "^2.0.2",
+    "jquery": "^3.6.1",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.5",
+    "react-ga": "^3.3.1",
+    "react-onclickoutside": "^6.12.2",
+    "react-youtube": "^10.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4"
+  }
+}
