@@ -1,0 +1,6 @@
+git rm --cached .DS_Store
+.DS_Store
+.vscode/settings.json
+components/.DS_Store
+public/.DS_Store
+/node_modules

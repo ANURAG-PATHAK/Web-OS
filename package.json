@@ -1,7 +1,7 @@
 {
-  "name": "Anurag-Pathak-Portfolio",
+  "name": "Web-OS",
   "version": "1.0",
-  "description": "My Personal Portfolio",
+  "description": "Web-OS",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANURAG-PATHAK/my-portfolio.git"
+    "url": "git+https://github.com/ANURAG-PATHAK/Web-OS.git"
   },
   "author": "Anurag Pathak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ANURAG-PATHAK/my-portfolio/issues"
+    "url": "https://github.com/ANURAG-PATHAK/Web-OS/issues"
   },
-  "homepage": "https://github.com/ANURAG-PATHAK/my-portfolio#readme",
+  "homepage": "https://github.com/ANURAG-PATHAK/Web-OS#readme",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "expr-eval": "^2.0.2",
